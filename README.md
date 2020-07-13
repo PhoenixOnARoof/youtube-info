@@ -11,7 +11,7 @@ A Node.js module that fetches meta information about YouTube videos. The informa
 Install as a module via npm.
 
 ```bash
-$ npm install aulianov/youtube-info
+$ npm install phoenixonaroof/youtube-info
 ```
 
 ## Usage
