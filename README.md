@@ -11,7 +11,7 @@ A Node.js module that fetches meta information about YouTube videos. The informa
 Install as a module via npm.
 
 ```bash
-$ npm install youtube-info
+$ npm install youtube-info-ant
 ```
 
 ## Usage
